@@ -1,5 +1,5 @@
 package reverses
 
-func reverseString(s []byte)  {
-    
+func reverseString(s []byte) {
+
 }

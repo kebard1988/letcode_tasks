@@ -1,4 +1,4 @@
-package numbergo
+package goodpairs
 
 func numIdenticalPairs(nums []int) int {
 	total := 0

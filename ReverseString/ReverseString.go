@@ -1,4 +1,4 @@
-package reverses
+package reversestring
 
 func reverseString(s []byte) {
 

@@ -1,4 +1,4 @@
-package removed
+package removeduplicatesarray
 
 func removeDuplicates(nums []int) int {
 	length, ne := len(nums), 1
